@@ -14,7 +14,8 @@ cases for each country after execution.
 ## Description of the model
 “main” is where the data preprocessing function and model training function are called. The model for cases 
 prediction is linear regression.
+
 For the data preprocessing, the independent variable is the date and the dependent 
 one is the cases. The date is converted to integer starting from 0.  
-For the model training, only the last 70% data is selected as independent variable 
-to eliminate the extreme value at the beginning of the virus outbreak.
+
+For the model training, only the last 70% data is selected to eliminate the extreme value at the beginning of the virus outbreak.
