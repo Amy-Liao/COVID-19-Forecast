@@ -12,11 +12,9 @@ This code will then create a file called “StudentID_HW1.csv” with the predic
 cases for each country after execution.
 
 ## Description of the model
-This code includes four functions, “mean_absolute_percentage_error”, 
-“preprocessing”, “train”, and “main”. The “main” function is where the data
-preprocessing function and model training function being called. The model for cases 
+“main” is where the data preprocessing function and model training function are called. The model for cases 
 prediction is linear regression.
 For the data preprocessing, the independent variable is the date and the dependent 
-one is the cases. The date is converted to integer starting from 0. 
-As for the model training, only the last 70% data is selected as independent variable 
+one is the cases. The date is converted to integer starting from 0.  
+For the model training, only the last 70% data is selected as independent variable 
 to eliminate the extreme value at the beginning of the virus outbreak.
