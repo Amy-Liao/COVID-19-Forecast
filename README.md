@@ -1,6 +1,6 @@
 # COVID-19-Linear-Regression-Forecast
 This is an assignment from "Introduction to Machine Learning" course in 2020.  
-It takes the COVID-19 data in each country from Dec 31, 2019 to Oct 8, 2020 and predicts the COVID-19 cases from Oct 9 to Oct 15 in 2020.  
+It takes the COVID-19 cases data in each country from Dec 31, 2019 to Oct 8, 2020 and predicts the COVID-19 cases from Oct 9 to Oct 15 in 2020.  
 (It was Oct 8, 2020 when this code is finished)
 
 ## Dataset
